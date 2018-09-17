@@ -1,4 +1,4 @@
-# Samuel Sunarjo A12340230
+# Samuel Sunarjo 
 
 # Problem 1
 
