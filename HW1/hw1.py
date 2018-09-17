@@ -39,7 +39,7 @@ for i in range(100):
 plt_sine_100, = plt.plot(space,sine_100,color='y',label = 'noise_100_iters')
 
 plt.legend(loc='upper right')
-plt.savefig('./cogs181_Q2.png')
+plt.savefig('./Q2.png')
 
 
 # Problem 3
@@ -78,7 +78,7 @@ Y = iris.target
 
 # 2 feature
 plt.scatter(X[:,0],X[:,1], c=Y, cmap=plt.cm.Paired)
-plt.savefig('./cogs181_Q4_2feature.png')
+plt.savefig('./Q4_2feature.png')
 
 # 3 feature
 fig = plt.figure(1, figsize=(8, 8))
@@ -119,4 +119,4 @@ plt.plot(x,sol[0]+sol[1]*x)
 plt.title('Least square line fitting')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.savefig('./cogs181_Q6.png')
+plt.savefig('./Q6.png')
