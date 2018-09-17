@@ -1,0 +1,5 @@
+Project by: Samuel Sunarjo, A12340230, ssunarjo@ucsd.edu
+
+This directory contains all the networks I trained for this project. Each Jupyter notebook contains a network with a particular set of configuration. The configuration specifics are mentioned in the notebook name and in a docstring at the beginning of each notebook.
+
+Most of the notebooks contain the outputs produced during training and testing, each in its own cell. 
